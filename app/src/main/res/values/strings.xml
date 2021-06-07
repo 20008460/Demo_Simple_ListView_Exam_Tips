@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">Demo Simple ListView Exam Tips</string>
+    <string name="tip1">Don\'t just read the code, code it as much as possible during each practical session</string>
+    <string name="tip2">Seek help from the lecturer ASAP, don\'t wait till you lost in the jungle</string>
+    <string name="tip3">Prepare your template source code for each topic</string>
+    <string name="tip4">Create a few empty Android projects to speed up your coding during the exam</string>
+    <string name="tip5">Ensure that your Android Studio is up and running before the exam</string>
+</resources>
